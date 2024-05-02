@@ -1,0 +1,37 @@
+[
+    {"title": "Java",
+    "imgSrc": "skills/javaIcon.png"
+    },
+    {"title": "HTML",
+    "imgSrc": "skills/htmlIcon.png"
+    },
+    {"title": "JavaScript",
+    "imgSrc": "skills/js.png"
+    },
+    {"title": "CSS",
+    "imgSrc": "skills/cssIcon.png"
+    },
+    {"title": "jQuery",
+    "imgSrc": "skills/jquery.png"
+    },
+    {"title": "PHP",
+    "imgSrc": "skills/php21.png"
+    },
+    {"title": "React",
+    "imgSrc": "skills/react.png"
+    },
+    {"title": "Oracle",
+    "imgSrc": "skills/oracle.png"
+    },
+    {"title": "MongoDB",
+    "imgSrc": "skills/mongoIcon.png"
+    }
+    ,
+    {"title": "MySQL",
+    "imgSrc": "skills/mysql.png"
+    }
+    ,
+    {"title": "SqlServer",
+    "imgSrc": "skills/sqlserver.png"
+    }
+]

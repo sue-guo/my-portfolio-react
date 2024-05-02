@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "company": "OceanSoft Inc",
+        "role": "Full stack developer",
+        "address": "Suzhou, China",
+        "startDate": "2016.10",
+        "endDate": "2017.11",
+        "imgSrc":"history/company.png",
+        "experiences": ["Design and develop multiple projects independently.",
+        "Maintained 5 running applications.", "Addressed customer problems promptly and effectively"]
+    },
+    {
+        "id": 2,
+        "company": "WOYITECH Inc",
+        "role": "Full stack developer",
+        "address": "Hefei, China",
+        "startDate": "2015.01",
+        "endDate": "2016.08",
+        "imgSrc":"history/company.png",
+        "experiences": ["Led Java backend development, and implemented an efficient algorithm.",
+        "Enhanced front-end pages, optimizing performance."]
+    }
+   
+]

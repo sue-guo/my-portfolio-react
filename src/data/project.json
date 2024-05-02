@@ -1,0 +1,43 @@
+[
+    { 
+        "title":"My Portfolio",
+        "startDate":"",
+        "endDate":"",
+        "description":"This is my portfolio website that I created using React. It showcases my projects, skills, and contact information.",
+        "imagePath":"projects/project1.png",
+        "projectLink":"",
+        "source":"https://github.com/sue-guo/web-code.git",
+        "technologies": ["React","HTML","CSS"]
+    },
+    { 
+        "title":"My blog",
+        "startDate":"",
+        "endDate":"",
+        "description":"This is a blog website that I created using PHP. It allows users to create, edit, and delete posts.",
+        "imagePath":"projects/project1.png",
+        "projectLink":"",
+        "source":"https://github.com/sue-guo/web-code.git",
+        "technologies": ["PHP","MySQL","HTML","CSS","JavaScript"]
+    },
+    { 
+        "title":"Anhui Apartment Online Service System",
+        "startDate":"",
+        "endDate":"",
+        "description":"This is a web app for managing apartment complexes and providing online services for residents. Modules include apartment and resident info, rental and repair management, complaints, and payments.",
+        "imagePath":"projects/project1.png",
+        "projectLink":"https://gzfgl.hfgx.com/lhm/gateway/index",
+        "source":"",
+        "technologies": ["Java","SpringMVC","Hibernate","MySQL","HTML","CSS","JavaScript","jQuery","Bootstrap"]
+    },
+    { 
+        "title":"Zhibang Cabinet Customer Management System",
+        "startDate":"",
+        "endDate":"",
+        "description":"This application simplifies managing customer info, orders, payments & reports for a cabinet company. Provides modules for easy operation & informed decisions.",
+        "imagePath":"projects/project1.png",
+        "projectLink":"https://www.zbom.com/index.html",
+        "source":"",
+        "technologies": ["Java","SpringMVC","ibatis","Oracle","HTML","CSS","JavaScript","jQuery","Ajax"]
+    }
+]
+    
